@@ -26,4 +26,6 @@ duration_ms: The duration of the track in milliseconds.<br>
 time_signature: The time signature of the track.<br> <br>
 
 The dataset used in this analysis can be downloaded at: <br>
-https://www.kaggle.com/datasets/byomokeshsenapati/spotify-song-attributes
+[Kaggle Link](https://www.kaggle.com/datasets/byomokeshsenapati/spotify-song-attributes)
+
+View all charts used in this analysis [here](https://patrickk-scott.github.io/spotify-eda-clustering/)
