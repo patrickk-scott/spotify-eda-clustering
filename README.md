@@ -29,3 +29,5 @@ The dataset used in this analysis can be downloaded at: <br>
 https://www.kaggle.com/datasets/byomokeshsenapati/spotify-song-attributes
 
 ![Alt text](piped_plots.html)
+
+[Open in new window](piped_plots.html){:target="_blank"}
