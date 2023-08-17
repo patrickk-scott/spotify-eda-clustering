@@ -28,6 +28,11 @@ time_signature: The time signature of the track.<br> <br>
 The dataset used in this analysis can be downloaded at: <br>
 https://www.kaggle.com/datasets/byomokeshsenapati/spotify-song-attributes
 
-![Alt text](piped_plots.html)
+<button onclick="openNewWindow()">Open in new window</button>
 
-[Open in new window](piped_plots.html){:target="_blank"}
+<script>
+function openNewWindow() {
+  window.open('feature_chart.html', '_blank');
+}
+</script>
+
