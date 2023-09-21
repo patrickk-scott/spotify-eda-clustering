@@ -1,3 +1,9 @@
+# Resources
+View full analysis [here](https://patrickk-scott.github.io/spotify-eda-clustering/)
+
+The dataset used in this analysis can be downloaded at: <br>
+[Kaggle Link](https://www.kaggle.com/datasets/byomokeshsenapati/spotify-song-attributes)
+
 # Introduction
 
 The Spotify Song Attributes Dataset contains data regarding several characteristics of music tracks available on Spotify in 2022. It contains 22 attributes and 10,080 rows, each identifying a unique music track. We will conduct an initial exploratory data analysis with the goal of generating visualizations for attributes of interest to assist us in further analyzing the relationships present in the data. The attributes can be described as follows:
@@ -24,8 +30,3 @@ track_href: A link to the Spotify Web API endpoint for the track.<br>
 analysis_url: A link to the audio analysis of the track.<br>
 duration_ms: The duration of the track in milliseconds.<br>
 time_signature: The time signature of the track.<br> <br>
-
-The dataset used in this analysis can be downloaded at: <br>
-[Kaggle Link](https://www.kaggle.com/datasets/byomokeshsenapati/spotify-song-attributes)
-
-View all charts used in this analysis [here](https://patrickk-scott.github.io/spotify-eda-clustering/)
